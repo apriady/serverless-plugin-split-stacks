@@ -36,7 +36,7 @@
     "sinon": "^11.1.1"
   },
   "dependencies": {
-    "aws-info": "^1.2.0",
+    "aws-info": "git+https://github.com/apriady/aws-info-node.git",
     "lodash": "^4.17.21",
     "semver": "^7.3.5",
     "throat": "^6.0.1"
